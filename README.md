@@ -1,6 +1,6 @@
 ## Hi there 👋
 # Mi nombre es Máximo Román Bustos, 
-Soy de Rosario/Santa Fe/Argentina <img src="https://githubusercontent.com" width="16" height="16" style="vertical-align: middle;">
+Soy de Rosario/Santa Fe/Argentina <img src="https://flagcdn.com" width="20" style="vertical-align: middle;">
 
 - 🎓 Hoy en día estoy estudiando la Licenciatura en Ciencia de Datos en la Facultad Austral de Rosario, en 1er año
 - 👨‍💻 Me gusta siempre ir a por más y tratar de empujar los limites 
